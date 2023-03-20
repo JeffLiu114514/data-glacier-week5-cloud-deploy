@@ -1,0 +1,7 @@
+name: testmodel1145
+type: python:3.10.7
+build:
+  source_directory: .
+  flavor: none
+run:
+  start: python app.py
